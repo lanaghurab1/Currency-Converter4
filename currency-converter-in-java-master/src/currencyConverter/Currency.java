@@ -8,7 +8,7 @@ public class Currency {
 	private String shortName;
 	private HashMap<String, Double> exchangeValues = new HashMap<String, Double>();
 	
-	// "Currency" Constructor
+	// "Currency" Constructor.
 	public Currency(String nameValue, String shortNameValue) {
 		this.name = nameValue;
 		this.shortName = shortNameValue;
