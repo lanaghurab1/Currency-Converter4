@@ -14,7 +14,7 @@ public class Currency {
 		this.shortName = shortNameValue;
 	}
 	
-	// Getter for name
+	// Getter for name .
 	public String getName() {
 		return this.name;
 	}
