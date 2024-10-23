@@ -85,4 +85,4 @@ public class AboutWindow extends JFrame {
 		}
 		 return windowInstance;
 	}
-}
+} 
